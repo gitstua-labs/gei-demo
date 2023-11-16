@@ -1,5 +1,5 @@
-# gei
-a demo of gei
+# gei demo
+A demo repo for gei
 
 ## pre-requisites
 - ensure migrations are enabled in GHES
