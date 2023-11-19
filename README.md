@@ -18,8 +18,12 @@ You can bootstrap this script on mac using the following command:
 gh gei migrate-repo --github-source-org $GH_SOURCE_ORG --source-repo $GH_SOURCE_REPO --github-target-org $GH_DESTINATION_ORG --target-repo $GH_DESTINATION_REPO --ghes-api-url $GHES_API_URL
 ```
 
+## Migrate an organization from GHEC to GHEC EMU
+```bash
+gh gei migrate-org --github-source-org SOURCE --github-target-org DESTINATION --github-target-enterprise ENTERPRISE
+```
 
-## thanks
+## Thanks
 - official docs
 https://docs.github.com/en/migrations/using-github-enterprise-importer/migrating-repositories-with-github-enterprise-importer/migrating-repositories-from-github-enterprise-server-to-github-enterprise-cloud
 - shared Gist https://gist.github.com/mihow/9c7f559807069a03e302605691f85572
