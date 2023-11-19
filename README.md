@@ -11,7 +11,11 @@ A demo repo for gei
 You can bootstrap this script on mac using the following command:
 ```bash
 ./scripts/bootstrap.sh
-``` 
+```
+
+## Analysis before you migrate
+- [gh-repo-stats](https://github.com/mona-actions/gh-repo-stats/)
+- [git-sizer](https://github.com/github/git-sizer#getting-started)
 
 ## Migrate a single repository from GitHub Enterprise Server to GitHub Enterprise Cloud
 ```bash
