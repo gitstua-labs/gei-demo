@@ -31,6 +31,11 @@ gh gei migrate-org --github-source-org SOURCE \
 --github-target-org DESTINATION \
 --github-target-enterprise ENTERPRISE
 ```
+## Example output from tools
+- [GEI migration logs GHEC to EMU](./examples/gei-output/)
+- [GEI mannequin](./examples/gei-output/our-ghec-org1-migrated-mannequin.csv)
+- [gh-repo-stats](./examples/gh-repo-stats/)
+
 
 ## Thanks
 - official docs
