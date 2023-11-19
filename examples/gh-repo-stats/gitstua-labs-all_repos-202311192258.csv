@@ -45,8 +45,6 @@ gitstua-labs,repo-ruleset-play,false,2023-06-19T11:15:34Z,2023-05-29T22:13:51Z,f
 gitstua-labs,repo-rulesets,false,2023-10-08T05:48:03Z,2023-10-08T05:16:05Z,false,false,0,7,3,0,0,0,0,1,0,0,0,3,0,0,1,0,0,true,https://github.com/gitstua-labs/repo-rulesets,FALSE,2023-10-08T05:16:04Z
 gitstua-labs,repo-settings-test-actions-logs,false,2023-06-12T06:16:08Z,2023-06-12T06:16:08Z,false,false,0,18,3,0,0,1,5,0,0,0,1,8,0,0,1,0,0,true,https://github.com/gitstua-labs/repo-settings-test-actions-logs,FALSE,2023-06-12T06:16:08Z
 gitstua-labs,secret-scanning-demo1,false,2023-10-05T06:51:14Z,2023-10-05T06:49:33Z,false,false,0,4,3,0,0,0,1,0,0,0,0,0,0,0,1,0,0,true,https://github.com/gitstua-labs/secret-scanning-demo1,FALSE,2023-10-05T06:49:32Z
-gitstua-labs,secrets-cba,false,2023-10-17T01:25:08Z,2023-10-17T01:03:32Z,false,false,0,4,3,0,0,0,1,0,0,0,0,0,0,0,1,0,0,true,https://github.com/gitstua-labs/secrets-cba,FALSE,2023-10-17T00:45:00Z
-gitstua-labs,secrets-cba-fork,false,2023-10-17T01:08:18Z,2023-10-17T01:20:29Z,true,false,0,3,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,true,https://github.com/gitstua-labs/secrets-cba-fork,FALSE,2023-10-17T01:20:28Z
 gitstua-labs,signoff-commits,false,2023-09-15T00:19:57Z,2023-09-15T00:17:34Z,false,false,0,3,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,true,https://github.com/gitstua-labs/signoff-commits,FALSE,2023-09-15T00:17:33Z
 gitstua-labs,team1stuff-repo1,true,2023-07-11T05:35:02Z,2023-07-11T05:35:02Z,false,false,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,true,https://github.com/gitstua-labs/team1stuff-repo1,FALSE,2023-07-11T05:35:01Z
 gitstua-labs,test-intro-day1,false,2023-07-18T04:49:47Z,2023-07-18T04:32:29Z,false,false,0,12,3,0,2,0,0,1,2,0,0,4,0,0,1,0,0,true,https://github.com/gitstua-labs/Test-intro-day1,FALSE,2023-07-18T04:32:28Z
