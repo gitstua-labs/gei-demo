@@ -15,13 +15,16 @@ You can bootstrap this script on mac using the following command:
 
 ## Migrate a single repository from GitHub Enterprise Server to GitHub Enterprise Cloud
 ```bash
-gh gei migrate-repo --github-source-org $GH_SOURCE_ORG --source-repo $GH_SOURCE_REPO --github-target-org $GH_DESTINATION_ORG \
---target-repo $GH_DESTINATION_REPO --ghes-api-url $GHES_API_URL
+gh gei migrate-repo --github-source-org $GH_SOURCE_ORG --source-repo $GH_SOURCE_REPO \
+--github-target-org $GH_DESTINATION_ORG \
+--target-repo $GH_DESTINATION_REPO \
+--ghes-api-url $GHES_API_URL
 ```
 
 ## Migrate an organization from GHEC to GHEC EMU
 ```bash
-gh gei migrate-org --github-source-org SOURCE --github-target-org DESTINATION \
+gh gei migrate-org --github-source-org SOURCE \
+--github-target-org DESTINATION \
 --github-target-enterprise ENTERPRISE
 ```
 
