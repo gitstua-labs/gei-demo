@@ -36,6 +36,7 @@ gh gei migrate-org --github-source-org SOURCE \
 - [GEI migration logs GHEC to EMU](./examples/gei-output/)
 - [GEI mannequin](./examples/gei-output/our-ghec-org1-migrated-mannequin.csv)
 - [gh-repo-stats](./examples/gh-repo-stats/)
+- [gh-migration-audit](./examples/gh-migration-audit/gitstua-labs-migration-audit.csv) - NOT AN OFFICIAL TOOL
 
 
 ## Thanks
