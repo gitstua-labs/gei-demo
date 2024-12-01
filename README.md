@@ -14,9 +14,14 @@ You can bootstrap this script on mac using the following command:
 ```
 
 ## Analysis before you migrate
-- [gh-repo-stats](https://github.com/mona-actions/gh-repo-stats/)
+- [gh-repo-stats](https://github.com/mona-actions/gh-repo-stats/) (last push date, repo size, empty repo)
 - [git-sizer](https://github.com/github/git-sizer#getting-started)
-- [timrogers/gh-migration-audit](https://github.com/timrogers/gh-migration-audit) - not an official GitHub tool but great insights
+- [timrogers/gh-migration-audit](https://github.com/timrogers/gh-migration-audit) (identify un-migratable data) - not an official GitHub tool but great insights
+- [GitHub Migration Analyzer](https://github.com/github/gh-migration-analyzer) – org metrics, repo metrics
+- [Dry run migrations with GEI](https://docs.github.com/en/migrations/using-github-enterprise-importer/migrating-between-github-products/overview-of-a-migration-between-github-products#running-your-migrations) – uncover problems early
+- [Stale repos](https://github.com/github/stale-repos) (GitHub Action)
+- [Repository reports](https://docs.github.com/en/enterprise-server@3.12/admin/monitoring-activity-in-your-enterprise/exploring-user-activity-in-your-enterprise/accessing-reports-for-your-instance#repository-reports) (owner name, repo size, visibility)
+
 
 ## Migrate a single repository from GitHub Enterprise Server to GitHub Enterprise Cloud
 ```bash
