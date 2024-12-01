@@ -3,7 +3,7 @@ A demo repo for gei
 
 ## pre-requisites
 - ensure migrations are enabled in GHES
-- create **classic** PAT tokens which meet [requirements](https://docs.github.com/en/enterprise-server@3.8/migrations/using-github-enterprise-importer/preparing-to-migrate-with-github-enterprise-importer/managing-access-for-github-enterprise-importer#personal-access-tokens-for-github-products)
+- create **classic** PAT tokens which meet [requirements](https://docs.github.com/en/enterprise-server@3.12/migrations/using-github-enterprise-importer/migrating-between-github-products/managing-access-for-a-migration-between-github-products#required-scopes-for-personal-access-tokens)
 - either set variables in a .env file and set them with `set -o allexport; source .env; set +o allexport` or export them in your shell
 
 
