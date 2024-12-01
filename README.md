@@ -4,6 +4,7 @@ A demo repo for gei
 ## pre-requisites
 - ensure migrations are enabled in GHES
 - create **classic** PAT tokens which meet [requirements](https://docs.github.com/en/enterprise-server@3.13/migrations/using-github-enterprise-importer/migrating-between-github-products/managing-access-for-a-migration-between-github-products#required-scopes-for-personal-access-tokens)
+- SSO Enable any PAT tokens and verify any network restrictions such as IP Allow Lists
 - either set variables in a .env file and set them with `set -o allexport; source .env; set +o allexport` or export them in your shell
 
 
